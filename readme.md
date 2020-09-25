@@ -1,5 +1,5 @@
 One
 
-Truffle Pig
+Truffle
 Truffle
 Truffle
