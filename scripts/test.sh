@@ -1,5 +1,5 @@
 #!/bin/bash
-if grep -Rq "Truffle" readme.md
+if grep -Fxq "Truffle" readme.md
 then
 	echo "Broken"
     exit 1
